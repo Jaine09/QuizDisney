@@ -6,7 +6,7 @@ Este é um projeto de um quiz interativo com perguntas sobre filmes e séries da
 
 Você pode experimentar o quiz online através do seguinte link:
 
-
+https://jaine09.github.io/QuizDisney/
 
 ## ⚙️ Funcionalidades
 
